@@ -1,0 +1,2 @@
+#+title: Org Roam
+Org roam is fantastic
